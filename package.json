@@ -23,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/GibranDev80/node-cpp-compiler/issues"
   },
-  "homepage": "https://github.com/GibranDev80/node-cpp-compiler#readme"
+  "homepage": "https://github.com/GibranDev80/node-cpp-compiler#readme",
+  "dependencies": {
+    "arg": "^5.0.0",
+    "chalk": "^4.1.0",
+    "esm": "^3.2.25",
+    "inquirer": "^7.3.3",
+    "ncp": "^2.0.0"
+  }
 }
